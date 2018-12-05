@@ -74,4 +74,8 @@ public class LoginController {
     public void end(){
         System.out.println("end");
     }
+
+    public void send(){
+        System.out.println("send");
+    }
 }
