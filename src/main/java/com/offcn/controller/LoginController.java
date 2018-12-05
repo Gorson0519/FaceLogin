@@ -78,4 +78,7 @@ public class LoginController {
     public void send(){
         System.out.println("send");
     }
+    public void fenzhi(){
+        System.out.println("fenzhi");
+    }
 }
